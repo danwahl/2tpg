@@ -18,6 +18,15 @@ GPT-2, but fine-tuned on its own output to predict the _previous_ token.
     ```
 2. `python train.py`
 
+## Evaluate
+
+1. Get [gpt-2-output-dataset](https://github.com/openai/gpt-2-output-dataset)
+    ```bash
+    cd data
+    wget https://openaipublic.azureedge.net/gpt-2/output-dataset/v1/small-117M-k40.valid.jsonl
+    ```
+2. `python evaluate.py`
+
 ## Inference
 
 1. `python inference.py --prompt "So we beat on, boats against the current, borne back ceaselessly into the past."`
