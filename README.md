@@ -2,6 +2,8 @@
 
 GPT-2, but fine-tuned on its own output to predict the _previous_ token.
 
+The trained model, usage example and evaluation results are on [Hugging Face](https://huggingface.co/drwahl/2tpg).
+
 ## Setup
 
 1. `pyenv local 3.13.2`
