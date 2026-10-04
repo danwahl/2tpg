@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: If you use 2-TPG, please cite it as below.
+title: "2-TPG: Reversing the Direction of Language Model Prediction"
+version: 1.0.0
+date-released: "2026-10-04"
+authors:
+  - family-names: Wahl
+    given-names: Daniel
+repository-code: https://github.com/danwahl/2tpg
+url: https://huggingface.co/drwahl/2tpg
+license: MIT
