@@ -1,8 +1,10 @@
 # 2-TPG
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23133039.svg)](https://doi.org/10.5281/zenodo.23133039)
+
 GPT-2, but fine-tuned on its own output to predict the _previous_ token.
 
-The trained model, usage example and evaluation results are on [Hugging Face](https://huggingface.co/drwahl/2tpg).
+The trained model, usage example and evaluation results are on [Hugging Face](https://huggingface.co/drwahl/2tpg) ([doi:10.57967/hf/10747](https://doi.org/10.57967/hf/10747)).
 
 ## Setup
 

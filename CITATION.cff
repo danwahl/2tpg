@@ -3,6 +3,7 @@ message: If you use 2-TPG, please cite it as below.
 title: "2-TPG: Reversing the Direction of Language Model Prediction"
 version: 1.0.0
 date-released: "2026-10-04"
+doi: 10.5281/zenodo.23133039
 authors:
   - family-names: Wahl
     given-names: Daniel
